@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43e2b460-8826-4b05-86e2-aa1ba4933cde" name="Changes" comment="1.1. Добавлено отображение матрицы наблюдений, начало выполнение отчета">
+    <list default="true" id="43e2b460-8826-4b05-86e2-aa1ba4933cde" name="Changes" comment="2.1. Добавлен requirements.txt">
+      <change afterPath="$PROJECT_DIR$/data/raw/Pumpkin_Seeds_Dataset.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/diesel_air.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/heavy_oil_air.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/ЛР1.1.docx" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ЛР1.1.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/lab1.1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/lab1.1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/varianсe_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/varianсe_analysis.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +27,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;EvilSoboL&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="7f6bcf0a-9cf2-4554-bfed-053aebdb9bc9" />
+        <option name="url" value="https://github.com/EvilSoboL/machineLearningNstu.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -34,14 +50,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.varianсe_analysis.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.varianсe_analysis.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Mark/PycharmProjects/machineLearningNstu/data/raw"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mark\PycharmProjects\machineLearningNstu\data\raw" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mark\PycharmProjects\machineLearningNstu\data\raw" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -66,11 +91,29 @@
       <option name="project" value="LOCAL" />
       <updated>1708351520875</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2.0. Готовая лабораторная работа №1.1., готовый отчет по ней">
+      <option name="closed" value="true" />
+      <created>1709257534631</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709257534631</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2.1. Добавлен requirements.txt">
+      <option name="closed" value="true" />
+      <created>1709257641586</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709257641586</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1.1. Добавлено отображение матрицы наблюдений, начало выполнение отчета" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.1. Добавлено отображение матрицы наблюдений, начало выполнение отчета" />
+    <MESSAGE value="2.0. Готовая лабораторная работа №1.1., готовый отчет по ней" />
+    <MESSAGE value="2.1. Добавлен requirements.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.1. Добавлен requirements.txt" />
   </component>
 </project>
