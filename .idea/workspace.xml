@@ -4,13 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43e2b460-8826-4b05-86e2-aa1ba4933cde" name="Changes" comment="2.1. Добавлен requirements.txt">
-      <change afterPath="$PROJECT_DIR$/data/raw/Pumpkin_Seeds_Dataset.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/diesel_air.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/heavy_oil_air.csv" afterDir="false" />
+    <list default="true" id="43e2b460-8826-4b05-86e2-aa1ba4933cde" name="Changes" comment="3.1. Добавлено решение и отчет по ЛР1.5">
+      <change afterPath="$PROJECT_DIR$/data/raw/crude_oil_steam.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/diesel_steam.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/heavy_oil_steam.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/kerosene_air.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/kerosene_steam.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/waste_oil_steam.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ЛР1.1.docx" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ЛР1.1.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/lab1.1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/lab1.1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/raw/diesel_air.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/raw/diesel_air.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ЛР1.5.docx" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ЛР1.5.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/lab1.2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/lab1.2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/lab1.5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/lab1.5.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,15 +55,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.varianсe_analysis.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Mark/PycharmProjects/machineLearningNstu/data/raw"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.varianсe_analysis.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mark/PycharmProjects/machineLearningNstu/data/raw&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Mark\PycharmProjects\machineLearningNstu\data\raw" />
@@ -107,13 +112,22 @@
       <option name="project" value="LOCAL" />
       <updated>1709257641586</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="3.1. Добавлено решение и отчет по ЛР1.5">
+      <option name="closed" value="true" />
+      <created>1711615969654</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711615969654</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1.1. Добавлено отображение матрицы наблюдений, начало выполнение отчета" />
     <MESSAGE value="2.0. Готовая лабораторная работа №1.1., готовый отчет по ней" />
     <MESSAGE value="2.1. Добавлен requirements.txt" />
-    <option name="LAST_COMMIT_MESSAGE" value="2.1. Добавлен requirements.txt" />
+    <MESSAGE value="3.1. Добавлено решение и отчет по ЛР1.5" />
+    <option name="LAST_COMMIT_MESSAGE" value="3.1. Добавлено решение и отчет по ЛР1.5" />
   </component>
 </project>
