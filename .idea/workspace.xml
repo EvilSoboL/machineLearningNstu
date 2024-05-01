@@ -4,18 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43e2b460-8826-4b05-86e2-aa1ba4933cde" name="Changes" comment="3.1. Добавлено решение и отчет по ЛР1.5">
-      <change afterPath="$PROJECT_DIR$/data/raw/crude_oil_steam.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/diesel_steam.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/heavy_oil_steam.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/kerosene_air.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/kerosene_steam.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/waste_oil_steam.csv" afterDir="false" />
+    <list default="true" id="43e2b460-8826-4b05-86e2-aa1ba4933cde" name="Changes" comment="4.1. Сделан курсовой проект по bigData">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/raw/diesel_air.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/raw/diesel_air.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ЛР1.5.docx" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ЛР1.5.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/course_work_bigdata.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/course_work_bigdata.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/lab1.2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/lab1.2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/lab1.5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/lab1.5.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711615969654</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="4.1. Сделан курсовой проект по bigData">
+      <option name="closed" value="true" />
+      <created>1712982274501</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712982274502</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -128,6 +128,7 @@
     <MESSAGE value="2.0. Готовая лабораторная работа №1.1., готовый отчет по ней" />
     <MESSAGE value="2.1. Добавлен requirements.txt" />
     <MESSAGE value="3.1. Добавлено решение и отчет по ЛР1.5" />
-    <option name="LAST_COMMIT_MESSAGE" value="3.1. Добавлено решение и отчет по ЛР1.5" />
+    <MESSAGE value="4.1. Сделан курсовой проект по bigData" />
+    <option name="LAST_COMMIT_MESSAGE" value="4.1. Сделан курсовой проект по bigData" />
   </component>
 </project>
