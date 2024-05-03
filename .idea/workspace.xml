@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43e2b460-8826-4b05-86e2-aa1ba4933cde" name="Changes" comment="3.1. Добавлено решение и отчет по ЛР1.5">
-      <change beforePath="$PROJECT_DIR$/.idea/machineLearningNstu.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/machineLearningNstu.iml" afterDir="false" />
+    <list default="true" id="43e2b460-8826-4b05-86e2-aa1ba4933cde" name="Changes" comment="4.1. Сделан курсовой проект по bigData">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/course_work_bigdata.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/course_work_bigdata.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/lab1.5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/lab1.5.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/lab1.2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/lab1.2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,16 +47,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.varianсe_analysis.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Mark/PycharmProjects/machineLearningNstu/data/raw"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.varianсe_analysis.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mark/PycharmProjects/machineLearningNstu/data/raw&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Mark\PycharmProjects\machineLearningNstu\data\raw" />
@@ -69,7 +67,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-09665e90c3a7-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15026.15" />
+        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
       </set>
     </attachedChunks>
   </component>
@@ -114,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711615969654</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="4.1. Сделан курсовой проект по bigData">
+      <option name="closed" value="true" />
+      <created>1712982274501</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712982274502</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -122,6 +128,7 @@
     <MESSAGE value="2.0. Готовая лабораторная работа №1.1., готовый отчет по ней" />
     <MESSAGE value="2.1. Добавлен requirements.txt" />
     <MESSAGE value="3.1. Добавлено решение и отчет по ЛР1.5" />
-    <option name="LAST_COMMIT_MESSAGE" value="3.1. Добавлено решение и отчет по ЛР1.5" />
+    <MESSAGE value="4.1. Сделан курсовой проект по bigData" />
+    <option name="LAST_COMMIT_MESSAGE" value="4.1. Сделан курсовой проект по bigData" />
   </component>
 </project>
