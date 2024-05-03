@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43e2b460-8826-4b05-86e2-aa1ba4933cde" name="Changes" comment="3.1. Добавлено решение и отчет по ЛР1.5">
-      <change afterPath="$PROJECT_DIR$/data/raw/crude_oil_steam.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/diesel_steam.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/heavy_oil_steam.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/kerosene_air.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/kerosene_steam.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/raw/waste_oil_steam.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/machineLearningNstu.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/machineLearningNstu.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/raw/diesel_air.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/raw/diesel_air.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/ЛР1.5.docx" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ЛР1.5.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/lab1.2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/lab1.2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/course_work_bigdata.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/course_work_bigdata.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/lab1.5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/lab1.5.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,15 +48,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.varianсe_analysis.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mark/PycharmProjects/machineLearningNstu/data/raw&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.varianсe_analysis.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Mark/PycharmProjects/machineLearningNstu/data/raw"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Mark\PycharmProjects\machineLearningNstu\data\raw" />
@@ -75,7 +69,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+        <option value="bundled-python-sdk-09665e90c3a7-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15026.15" />
       </set>
     </attachedChunks>
   </component>
