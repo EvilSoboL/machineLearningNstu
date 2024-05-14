@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43e2b460-8826-4b05-86e2-aa1ba4933cde" name="Changes" comment="5.1. Готовая лаба 2.1, готовы отчет по ней">
+    <list default="true" id="43e2b460-8826-4b05-86e2-aa1ba4933cde" name="Changes" comment="6.1. Готовая лаба 1.6, готовы отчет по ней">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/~$ЛР1.5.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/~$_ЛР2.1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/~$_ЛР2.5.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/~WRL0336.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/МО_ЛР1.6.docx" beforeDir="false" afterPath="$PROJECT_DIR$/docs/МО_ЛР1.6.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/МО_ЛР2.1.docx" beforeDir="false" afterPath="$PROJECT_DIR$/docs/МО_ЛР2.1.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/МО_ЛР2.5.docx" beforeDir="false" afterPath="$PROJECT_DIR$/docs/МО_ЛР2.5.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/course_work_bigdata.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/course_work_bigdata.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +141,23 @@
       <option name="project" value="LOCAL" />
       <updated>1714554560815</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="6.1. Готовая лаба 1.6, готовы отчет по ней">
+      <option name="closed" value="true" />
+      <created>1715251968814</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1715251968814</updated>
+    </task>
+    <task id="LOCAL-00009" summary="6.1. Готовая лаба 1.6, готовы отчет по ней">
+      <option name="closed" value="true" />
+      <created>1715251977425</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1715251977425</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -156,6 +178,7 @@
     <MESSAGE value="3.1. Добавлено решение и отчет по ЛР1.5" />
     <MESSAGE value="4.1. Сделан курсовой проект по bigData" />
     <MESSAGE value="5.1. Готовая лаба 2.1, готовы отчет по ней" />
-    <option name="LAST_COMMIT_MESSAGE" value="5.1. Готовая лаба 2.1, готовы отчет по ней" />
+    <MESSAGE value="6.1. Готовая лаба 1.6, готовы отчет по ней" />
+    <option name="LAST_COMMIT_MESSAGE" value="6.1. Готовая лаба 1.6, готовы отчет по ней" />
   </component>
 </project>
