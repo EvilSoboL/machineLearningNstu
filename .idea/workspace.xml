@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43e2b460-8826-4b05-86e2-aa1ba4933cde" name="Changes" comment="4.1. Сделан курсовой проект по bigData">
+    <list default="true" id="43e2b460-8826-4b05-86e2-aa1ba4933cde" name="Changes" comment="3.1. Добавлено решение и отчет по ЛР1.5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/course_work_bigdata.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/course_work_bigdata.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/lab1.2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/lab1.2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +66,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+        <option value="bundled-python-sdk-09665e90c3a7-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15026.15" />
       </set>
     </attachedChunks>
   </component>
